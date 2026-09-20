@@ -1,8 +1,8 @@
 #pragma once
 
 // --- WiFi credentials ---
-//#define WIFI_SSID      "THYSA HOME 304"
-//#define WIFI_PASSWORD  "99999999"
+//#define WIFI_SSID      "SSID"
+//#define WIFI_PASSWORD  "Password"
 
 // --- OpenWeatherMap ---
 // Get a free API key at https://openweathermap.org/api
